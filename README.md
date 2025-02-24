@@ -3,10 +3,15 @@
 CalmMateAI is an AI-powered chatbot designed to provide compassionate and informative responses to mental health-related questions. Built with LangChain, Gradio, ChromaDB, and Groq's LLaMA model, this chatbot serves as a supportive tool for users seeking insights on mental well-being.
 
 🚀 Features
+
 ✅ Conversational AI – Interact with CalmMateAI to get thoughtful responses on mental health topics.
+
 ✅ Document-Based Retrieval – Upload PDFs to create a vector database for personalized Q&A.
+
 ✅ Groq's LLaMA Model – Leverages the power of LLaMA 3.3-70B Versatile for intelligent responses.
+
 ✅ Embeddings with Hugging Face – Uses sentence-transformers/all-MiniLM-L6-v2 for efficient text processing.
+
 ✅ Gradio UI – A simple and user-friendly chatbot interface for easy communication.
 
 🛠️ Tech Stack
